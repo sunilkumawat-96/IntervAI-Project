@@ -1,3 +1,72 @@
+🤖 IntervAI – AI-Powered Interview Preparation Platform
+
+IntervAI is an AI-driven, intelligent interview preparation platform that helps students and developers practice, analyze, and improve their interview skills through personalized feedback and real-time evaluation.
+
+🚀 Features
+👤 User Side
+
+🎯 Topic-based mock interviews (Frontend, Backend, HR)
+
+📄 Resume-based question generation
+
+🤖 AI-powered answer evaluation
+
+📊 Performance insights & scoring
+
+📈 Personalized improvement suggestions
+
+🔄 Continuous practice & feedback loop
+
+🧠 Adaptive question flow based on responses
+
+🌐 Clean and interactive UI
+
+🧱 Tech Stack
+Layer	Technology
+Frontend	React.js, HTML, CSS, JavaScript
+Backend	Node.js, Express.js
+AI	Python, Flask
+AI API	Gemini API
+Data Handling	REST APIs, JSON
+Version Control	Git, GitHub
+📂 Project Structure
+intervai/
+│
+├── frontend/
+│   ├── src/
+│   ├── components/
+│   └── App.js
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   ├── controllers/
+│   └── ai/
+│
+└── .gitignore
+⚙️ How to Run Locally
+Frontend
+cd frontend
+npm install
+npm start
+Backend
+cd backend
+npm install
+node server.js
+AI Service
+cd backend/ai
+python app.py
+🎯 Hackathon Vision
+
+IntervAI aims to transform traditional interview preparation by integrating AI-based evaluation, enabling users to practice smarter, receive real-time insights, and continuously improve their performance.
+
+👨‍💻 Author
+
+Sunil Kumawat
+Sattar kureshi
+Punyadeep singh
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
