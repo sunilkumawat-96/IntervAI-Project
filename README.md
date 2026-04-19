@@ -29,6 +29,7 @@ AI	Python, Flask
 AI API	Gemini API
 Data Handling	REST APIs, JSON
 Version Control	Git, GitHub
+
 📂 Project Structure
 intervai/
 │
@@ -44,6 +45,7 @@ intervai/
 │   └── ai/
 │
 └── .gitignore
+
 ⚙️ How to Run Locally
 Frontend
 cd frontend
